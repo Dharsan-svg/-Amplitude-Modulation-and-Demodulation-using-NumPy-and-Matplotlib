@@ -79,7 +79,9 @@ __Program__:
 
 __Tabulation__:
 
-![WhatsApp Image 2025-11-25 at 11 03 29_31b385e4](https://github.com/user-attachments/assets/bb3ceafc-d6c8-4f66-9a66-97d050973632)
+<img width="766" height="1280" alt="image" src="https://github.com/user-attachments/assets/e529b0f5-a490-4eb7-b5b8-53768c40bad0" />
+
+
 
 
  __Output__:
